@@ -3,10 +3,10 @@
         "styles": {
             "bg": "#FFFFFF",
             "lang-select-color": "#222829",
-            "bg-light": "#FCF5EA",
+            "bg-light": "#ffe9c7",
             "welcome-bonus-bg": "#FFFFFF",
             "top-games-hover-fg": "#222829",
-            "main-bg": "#f9f8f5",
+            "main-bg": "#FCF5EA",
             "text": "#222829",
             "text-black": "#222829",
             "table-head": "#AB2424",
