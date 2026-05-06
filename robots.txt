@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://wynn-palace-casino.com/
+Sitemap: https://wynn-palace-casino.com/sitemap.xml

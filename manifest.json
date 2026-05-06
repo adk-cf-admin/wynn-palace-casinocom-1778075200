@@ -1,0 +1,19 @@
+{
+  "name": "Wynn Palace Casino",
+  "short_name": "Wynn Palace Casino",
+  "theme_color": "",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1778074296-favicon-91.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
